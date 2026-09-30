@@ -1,5 +1,8 @@
 # 📊 User Retention & Cohort Analysis
 
+## [🔗 View Interactive Dashboard](https://datastudio.google.com/reporting/82903150-553c-445a-b084-2c65745077e4)
+
+
 ## 📖 Latar Belakang Proyek
 Mempertahankan pelanggan lama (*user retention*) seringkali lebih menguntungkan dan memakan biaya lebih rendah dibandingkan mengakuisisi pelanggan baru secara terus-menerus. Proyek ini bertujuan untuk mengevaluasi seberapa efektif bisnis dalam mempertahankan pelanggannya dari waktu ke waktu melalui metode **Cohort Analysis**. 
 
