@@ -19,7 +19,7 @@ Dengan memantau perilaku pengguna berdasarkan bulan pertama mereka bertransaksi 
 
 ## 📈 Visualisasi Hasil
 ![User Retention Heatmap](assets/heatmap_retention.png)
-*(Catatan: Simpan gambar heatmap di dalam folder `assets/` dengan nama file `heatmap_retention.png` di repositori ini)*
+
 
 ## 💡 Analisis User Retention (Business Insights)
 Berdasarkan *heatmap* yang dihasilkan, dapat ditarik kesimpulan bisnis sebagai berikut:
